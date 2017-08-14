@@ -81,4 +81,12 @@ PRODUCT_COPY_FILES += \
 	vendor/sony/togari/proprietary/etc/sensors_calib.conf:system/etc/sensors_calib.conf \
 	vendor/sony/togari/proprietary/usr/idc/clearpad.idc:system/usr/idc/clearpad.idc \
 	vendor/sony/togari/proprietary/usr/idc/max1187x_pen_0.idc:system/usr/idc/max1187x_pen_0.idc \
-        vendor/sony/togari/proprietary/usr/idc/max1187x_touchscreen_0.idc:system/usr/idc/max1187x_touchscreen_0.idc
+        vendor/sony/togari/proprietary/usr/idc/max1187x_touchscreen_0.idc:system/usr/idc/max1187x_touchscreen_0.idc \
+    vendor/sony/togari/proprietary/etc/firmware/touch_chip_id_0x74_config_id_0x0011.bin:system/etc/firmware/touch_chip_id_0x74_config_id_0x0011.bin \
+    vendor/sony/togari/proprietary/etc/firmware/touch_chip_id_0x74_config_id_0x0460.bin:system/etc/firmware/touch_chip_id_0x74_config_id_0x0460.bin \
+    vendor/sony/togari/proprietary/etc/firmware/touch_chip_id_0x75_config_id_0x0010.bin:system/etc/firmware/touch_chip_id_0x75_config_id_0x0010.bin \
+    vendor/sony/togari/proprietary/etc/firmware/touch_chip_id_0x75_config_id_0x0012.bin:system/etc/firmware/touch_chip_id_0x75_config_id_0x0012.bin \
+    vendor/sony/togari/proprietary/etc/firmware/touch_chip_id_0x75_config_id_0x0013.bin:system/etc/firmware/touch_chip_id_0x75_config_id_0x0013.bin \
+    vendor/sony/togari/proprietary/etc/firmware/touch_module_id_0x43.img:system/etc/firmware/touch_module_id_0x43.img \
+    vendor/sony/togari/proprietary/etc/firmware/touch_module_id_0x44.img:system/etc/firmware/touch_module_id_0x44.img 
+
